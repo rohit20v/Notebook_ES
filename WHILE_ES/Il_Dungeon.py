@@ -23,18 +23,3 @@ if __name__ == '__main__':
     for i in founded[::-1]:
         print("Vedo", i)
     print("Esco")
-
-    # while i >= 0:
-    #     if cerco == found:
-    #         print("Torno indietro")
-    #         while i > 0:
-    #             i -= 1
-    #             print("Vedo", caverna[i])
-    #         print("Esco")
-    #     else:
-    #         print("Torno indietro")
-    #         while i > 0:
-    #             i -= 1
-    #             print("Vedo", caverna[i])
-    #         print("Esco")
-    #     i -= 1
